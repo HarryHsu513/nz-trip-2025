@@ -1,0 +1,21 @@
+{
+  "name": "2025-12 New Zealand",
+  "short_name": "NZ Trip",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "My New Zealand Trip Itinerary",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/sheep.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/sheep.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
